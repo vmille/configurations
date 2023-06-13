@@ -1,0 +1,20 @@
+[battery]
+charging_symbol = "⇡ "
+discharging_symbol = "⇣ "
+empty_symbol = "❗ "
+full_symbol = "• "
+unknown_symbol = "❓ "
+
+[cmake]
+style = "blue"
+symbol = "𝚫 "
+version_format = "${major}.${minor}"
+
+[directory]
+truncation_symbol = "…/"
+
+[git_branch]
+symbol = "🎄 "
+
+[nodejs]
+symbol = "⬡ "
